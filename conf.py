@@ -9,8 +9,8 @@ import sphinx_rtd_theme
 
 
 project = 'PGx'
-copyright = '2023, Duong, Nguyen'
-author = 'Duong, Nguyen'
+copyright = '2023, PGx'
+author = 'Duong Nguyen Trinh Trung, Ziaurrehman Tanoli, Jimmy Caroli, Albert J. Kooistra, Alexander S Hauser, and David Gloriam'
 release = '1.0'
 
 # -- General configuration ---------------------------------------------------
