@@ -6,11 +6,11 @@
 Welcome to PGx's documentation!
 ===================================
 
-The GPCRdb contains data, diagrams and web tools for G protein-coupled receptors (GPCRs).
+The PGx contains data, diagrams and web tools to facilitate pharmacogenomics research.
 
 The `source code`_ and `source data`_ are freely available on `GitHub`_.
 
-Below, a table overview of all the different pages and functionalities in GPCRdb grouped by sections, along links to specific documentation pages, associated slides and video demonstrations.
+Below, a table overview of all the different pages and functionalities in PGx grouped by sections, along links to specific documentation pages, associated slides and video demonstrations.
 
 .. _source code: https://github.com/protwis/protwis
 .. _source data: https://github.com/protwis/gpcrdb_data
@@ -19,23 +19,13 @@ Below, a table overview of all the different pages and functionalities in GPCRdb
 .. _Isberg et al. NAR 2016: https://doi.org/10.1093/nar/gkv1178
 
 
-.. |Mutations Video| image:: https://justbewell.info/wp-content/uploads/2020/02/yt.png
-                     :target: https://www.youtube.com/watch?v=XU9CnFuKDqk
-.. |Receptor page Video| image:: https://justbewell.info/wp-content/uploads/2020/02/yt.png
-                         :target: https://www.youtube.com/watch?v=LGq73spAZhc
-.. |Receptor similarity Video| image:: https://justbewell.info/wp-content/uploads/2020/02/yt.png
-                               :target: https://www.youtube.com/watch?v=_JYqES3B0yU
-.. |Sequence alignment Video| image:: https://justbewell.info/wp-content/uploads/2020/02/yt.png
+.. |Drug Video| image:: https://justbewell.info/wp-content/uploads/2020/02/yt.png
                               :target: https://www.youtube.com/watch?v=jxdrCKsXA4M
 
 
-.. _Sequence alignments: https://docs.gpcrdb.org/sequences.html#structure-based-alignments
-.. _Generic residue number tables: https://docs.gpcrdb.org/generic_numbering.html#generic-residue-numbering
+.. _Drugs: https://docs.gpcrdb.org/sequences.html#structure-based-alignments
+.. _Targets: https://docs.gpcrdb.org/generic_numbering.html#generic-residue-numbering
 .. _Genetic variants: https://docs.gpcrdb.org/variants.html#genetic-variants
-.. _Receptor similarity: https://docs.gpcrdb.org/sequences.html#similarity-search-gpcrdb
-.. _Structure coverage: https://docs.gpcrdb.org/structures.html#structures
-.. _Structures: https://docs.gpcrdb.org/structures.html#structure-browser
-.. _Structure models: https://docs.gpcrdb.org/structures.html#structure-models
 
 .. |br| raw:: html
 
@@ -45,10 +35,9 @@ Below, a table overview of all the different pages and functionalities in GPCRdb
    :header:  "Page name", "Video", "Slides", "Demo", "Reference", "Short description"
    :widths: 25 25 25 25 25 25
 
-   "`Sequence alignments`_", "-", "-", "|Sequence alignment Video|", "`Isberg et al. NAR 2016`_ |br| `Kooistra et al. NAR 2021`_", "Provides sequence alignment analyses of receptors."
-   "`Generic residue number tables`_", "-", "-", "-", "`Isberg et al. TiPS 2015`_", "Displays the generic residue number tables |br| for the single or set of receptors selected."
-   "`Genetic variants`_", "-", "-", "-", "`Hauser et al. Cell 2018`_", "Section showing the variation coverage, |br| single receptor variants and the estimated |br| economic burden for drugs targeting GPCRs."
-   "Isoforms", "-", "-", "-", "`Marti-Solano et al. Nature 2020`_", "Info page highlighting the number |br| of unique isoforms detected for |br| each receptor gene."
+   "`Drugs`_", "-", "-", "|Drug Video|", "`Isberg et al. NAR 2016`_ |br| `Kooistra et al. NAR 2021`_", "Provides drug page for a single or set of drugs."
+   "`Targets`_", "-", "-", "-", "`Isberg et al. TiPS 2015`_", "Displays the Targets |br| for the single or set of drugs selected."
+   "`Genetic variants`_", "-", "-", "-", "`Hauser et al. Cell 2018`_", "Section showing the variants, |br| along with their effect prediction |br| and association statistics across almost 3000 phenotypes."
 
 
 The documentation is organised into three sections:
@@ -80,7 +69,7 @@ The documentation is organised into three sections:
 
 .. toctree::
     :maxdepth: 2
-    :caption: About GPCRdb
+    :caption: About PGx
 
     about
     contact
