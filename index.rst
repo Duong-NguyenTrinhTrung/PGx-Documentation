@@ -4,30 +4,6 @@
    contain the root `toctree` directive.
 
 Welcome to PGx's documentation!
-===============================
-
-
-Something here
---------------
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
-   intro
-   All about strings <strings>
-   datatypes
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
-
-Welcome to the GPCRdb documentation
 ===================================
 
 The GPCRdb contains data, diagrams and web tools for G protein-coupled receptors (GPCRs).
