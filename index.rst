@@ -7,11 +7,6 @@ Welcome to PGx's documentation!
 ===================================
 
 The GPCRdb contains data, diagrams and web tools for G protein-coupled receptors (GPCRs).
-Users can browse all GPCR crystal structures and the largest collection of receptor mutants.
-Diagrams can be produced and downloaded to illustrate receptor residues (snake-plot and helix box diagrams) and
-relationships (phylogenetic trees). Reference (crystal) structure-based sequence alignments take into account helix
-bulges and constrictions, display statistics of amino acid conservation and have been assigned generic
-residue numbering for equivalent residues in different receptors.
 
 The `source code`_ and `source data`_ are freely available on `GitHub`_.
 
@@ -71,19 +66,7 @@ The documentation is organised into three sections:
     receptors
     ligands
     signalproteins
-    sequences
-    sequence_signature
-    structures
-    structure_comparison
-    constructs
-    mutations
-    biasedsignaling
-    sites
-    generic_numbering
-    drugs
-    nhs
-    variants
-
+    
 .. _dev-docs:
 
 .. toctree::
@@ -92,12 +75,7 @@ The documentation is organised into three sections:
 
     web_services
     contributing
-    local_installation
-    coding_style
-    git_workflow
-    reload_database
-    building_a_database
-
+    
 .. _about-docs:
 
 .. toctree::
@@ -106,10 +84,4 @@ The documentation is organised into three sections:
 
     about
     contact
-    contributors
-    citing
-    acknowledgements
-    legal_notice
-    meetings
-    linking
-    external_sites
+    
