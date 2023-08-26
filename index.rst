@@ -53,8 +53,13 @@ The documentation is organised into three sections:
     :caption: User documentation
 
     receptors
+    ^^^^^^^^^
+
     ligands
+    ^^^^^^^
+
     signalproteins
+    ^^^^^^^^^^^^^^
     
 .. _dev-docs:
 
