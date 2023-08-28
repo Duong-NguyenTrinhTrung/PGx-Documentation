@@ -52,9 +52,9 @@ The documentation is organised into three sections:
     :maxdepth: 2
     :caption: User documentation
 
-    receptors
-    ligands
-    signalproteins
+    drugs
+    targets
+    variants
     
 .. _dev-docs:
 
