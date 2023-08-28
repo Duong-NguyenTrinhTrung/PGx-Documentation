@@ -43,6 +43,7 @@ Below, a table overview of all the different pages and functionalities in PGx gr
 The documentation is organised into three sections:
 
 * :ref:`user-docs`
+* :ref:`val-docs`
 * :ref:`dev-docs`
 * :ref:`about-docs`
 
@@ -55,6 +56,15 @@ The documentation is organised into three sections:
     drugs
     targets
     variants
+
+.. _val-docs:
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Data collection and validation
+
+    data_collection
+    data_validation
     
 .. _dev-docs:
 
