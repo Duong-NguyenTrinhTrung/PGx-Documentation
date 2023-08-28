@@ -10,7 +10,7 @@ import sphinx_rtd_theme
 
 project = 'PGx'
 copyright = '2023, PGx'
-author = 'Duong Nguyen Trinh Trung, Ziaurrehman Tanoli, Jimmy Caroli, Albert J. Kooistra, Alexander S Hauser, and David Gloriam'
+author = 'Duong Nguyen Trinh Trung, Ziaurrehman Tanoli, Jimmy Caroli, Albert J. Kooistra, Alexander S. Hauser, and David E. Gloriam'
 release = '1.0'
 
 # -- General configuration ---------------------------------------------------
@@ -22,7 +22,7 @@ templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 
-
+build_os = "macos"
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
