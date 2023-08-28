@@ -44,6 +44,7 @@ The documentation is organised into three sections:
 
 * :ref:`user-docs`
 * :ref:`val-docs`
+* :ref:`video-tut-docs`
 * :ref:`dev-docs`
 * :ref:`about-docs`
 
@@ -66,6 +67,17 @@ The documentation is organised into three sections:
     data_collection
     data_validation
     
+.. _video-tut-docs:
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Video tutorials
+
+    browsing_drug_page
+    browsing_target_page
+    browsing_variant_page
+    
+
 .. _dev-docs:
 
 .. toctree::
