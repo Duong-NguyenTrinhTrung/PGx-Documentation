@@ -95,4 +95,5 @@ The documentation is organised into three sections:
 
     about
     contact
-    
+    citing_PGx
+    external_PGx_sites
