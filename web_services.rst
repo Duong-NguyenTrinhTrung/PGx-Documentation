@@ -8,7 +8,7 @@ API reference
 
 Each endpoint is described in the `API reference`_.
 
-.. _API reference: https://gpcrdb.org/services/reference/
+.. _API reference: http://localhost:8000/swagger/
 
 Examples
 --------
