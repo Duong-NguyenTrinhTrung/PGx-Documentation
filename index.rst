@@ -40,10 +40,9 @@ Below, a table overview of all the different pages and functionalities in PGx gr
    "`Genetic variants`_", "-", "-", "-", "`Hauser et al. Cell 2018`_", "Section showing the variants, |br| along with their effect prediction |br| and association statistics across almost 3000 phenotypes."
 
 
-The documentation is organised into three sections:
+The documentation is organised into four sections:
 
 * :ref:`user-docs`
-* :ref:`val-docs`
 * :ref:`video-tut-docs`
 * :ref:`dev-docs`
 * :ref:`about-docs`
