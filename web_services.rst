@@ -1,16 +1,16 @@
-Web services
+APIs
 ============
 
 Most data in PGx is available programmatically via a REST API.
 
-API reference
+List of API endpoints
 -------------
 
 Each endpoint is described in the `API reference`_.
 
 .. _API reference: http://localhost:8000/swagger/
 
-Examples
+API sample scripts
 --------
 
 Python 3 with requests
