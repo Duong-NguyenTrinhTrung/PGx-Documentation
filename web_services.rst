@@ -13,7 +13,7 @@ Each endpoint is described in the `API reference`_.
 API sample scripts
 --------
 
-Python 3 with requests
+Using Python 3
 ^^^^^^^^^^^^^^^^^^^^^^
 
 This is the recommended approach. Requires installation of the `requests library`_.
@@ -25,7 +25,7 @@ This is the recommended approach. Requires installation of the `requests library
     import requests
 
     def download_gene_data(gene_ids):
-    base_url = "X"  
+    base_url = "https://pgx-db.org/"  
 
     for gene_id in gene_ids:
         url = f"{base_url}/gene/variant/{gene_id}/"
@@ -49,9 +49,28 @@ Python 3 with urllib
 
 ::
 
-    from urllib.request import urlopen
+    import urllib.request
     import json
+    
+    def download_gene_data(gene_ids):
+        base_url = "https://pgx-db.org/"  
+    
+        for gene_id in gene_ids:
+            url = f"{base_url}/gene/variant/{gene_id}/"
+            try:
+                with urllib.request.urlopen(url) as response:
+                    data = json.loads(response.read().decode("utf-8"))
+                    # Assuming the response contains JSON data, you can use json.loads to access the data
+    
+                    # Process or save the data as needed
+                    print(f"Downloaded data for gene ID {gene_id}: {data}")
+            except urllib.error.HTTPError as e:
+                print(f"Failed to download data for gene ID {gene_id}. Status code: {e.code}")
+            except urllib.error.URLError as e:
+                print(f"Error connecting to the server: {e.reason}")
+    
+    # Example usage:
+    gene_ids_to_download = ["gene_id1", "gene_id2", "gene_id3"] # List of your gene_id here
+    download_gene_data(gene_ids_to_download)
 
-    # fetch a protein
-    # coming soon
 
