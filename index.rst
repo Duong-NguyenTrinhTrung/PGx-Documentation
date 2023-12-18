@@ -12,8 +12,8 @@ The `source code`_ and `source data`_ are freely available on `GitHub`_.
 
 Below, a table overview of all the different pages and functionalities in PGx grouped by sections, along links to specific documentation pages, associated slides and video demonstrations.
 
-.. _source code: https://github.com/protwis/protwis
-.. _source data: https://github.com/protwis/gpcrdb_data
+.. _source code: https://github.com/Duong-NguyenTrinhTrung/pgx-db
+.. _source data: https://github.com/Duong-NguyenTrinhTrung/PharmacogenomicsData
 .. _GitHub: https://github.com
 .. _Isberg et al. NAR 2014: https://doi.org/10.1093/nar/gkt1255
 .. _Isberg et al. NAR 2016: https://doi.org/10.1093/nar/gkv1178
