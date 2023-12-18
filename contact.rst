@@ -1,6 +1,6 @@
 Contact
 =======
 
-To contact the authors of PGx, please use the e-mail address: `info@pgx.org`_.
+To contact the authors of PGx, please use the e-mail address: `trung.trinh@sund.ku.dk`_.
 
-.. _info@pgx.org: mailto:info@pgx.org
+.. _trung.trinh@sund.ku.dk: mailto:trung.trinh@sund.ku.dk
