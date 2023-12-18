@@ -13,4 +13,4 @@ these tools is helpful, but not necessary.
 As a data curator
 -----------------
 
-Data curation tasks involve e.g. sequence alignments, analysis of protein structures and collection of mutation data.
+Data curation tasks involve e.g. collection of variant data, variant-based or gene-based association burden test, variant effect prediction scores.
