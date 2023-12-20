@@ -24,6 +24,7 @@ Below, a table overview of all the different pages and functionalities in PGx gr
 .. _Drugs: 
 .. _Targets: 
 .. _Genetic variants: https://docs.gpcrdb.org/variants.html#genetic-variants
+.. _APIs: 
 
 .. |br| raw:: html
 
