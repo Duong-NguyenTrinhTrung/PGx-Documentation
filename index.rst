@@ -35,7 +35,7 @@ Below, a table overview of all the different pages and functionalities in PGx gr
 
    "`Drugs`_", "-", "|Drug Video|", "Provides drug page for a single or set of drugs along with ATC code system"
    "`Targets`_", "-", "-", "Displays the Targets |br| for the single or set of drugs selected."
-   "`Genetic variants`_", "-", "-", "Section showing the variants, |br| along with their effect prediction |br|, burden association statistics and drug response information"
+   "`Genetic variants`_", "-", "-", "Section showing the variants, |br| along with their effect prediction, |br| burden association statistics and drug response information"
 
 
 The documentation is organised into four sections:
