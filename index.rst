@@ -15,16 +15,16 @@ Below, a table overview of all the different pages and functionalities in PGx gr
 .. _source code: https://github.com/Duong-NguyenTrinhTrung/pgx-db
 .. _source data: https://github.com/Duong-NguyenTrinhTrung/PharmacogenomicsData
 .. _GitHub: https://github.com
-.. _Isberg et al. NAR 2014: https://doi.org/10.1093/nar/gkt1255
-.. _Isberg et al. NAR 2016: https://doi.org/10.1093/nar/gkv1178
+.. _Isberg et al. NAR 2014: 
+.. _Isberg et al. NAR 2016: 
 
 
-.. |Drug Video| image:: https://justbewell.info/wp-content/uploads/2020/02/yt.png
-                              :target: https://www.youtube.com/watch?v=jxdrCKsXA4M
+.. |Drug Video| image:: https://github.com/Duong-NguyenTrinhTrung/pgx-db/blob/main/static/home/logo/drug/drug2.png
+                              :target: 
 
 
-.. _Drugs: https://docs.gpcrdb.org/sequences.html#structure-based-alignments
-.. _Targets: https://docs.gpcrdb.org/generic_numbering.html#generic-residue-numbering
+.. _Drugs: 
+.. _Targets: 
 .. _Genetic variants: https://docs.gpcrdb.org/variants.html#genetic-variants
 
 .. |br| raw:: html
