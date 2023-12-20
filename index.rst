@@ -32,12 +32,12 @@ Below, a table overview of all the different pages and functionalities in PGx gr
      <br>
 
 .. csv-table:: **SEQUENCES**
-   :header:  "Page name", "Video", "Slides", "Demo", "Reference", "Short description"
+   :header:  "Page name", "Video", "Slides", "Demo", "Short description"
    :widths: 25 25 25 25 25 25
 
-   "`Drugs`_", "-", "-", "|Drug Video|", "`Isberg et al. NAR 2016`_ |br| `Kooistra et al. NAR 2021`_", "Provides drug page for a single or set of drugs."
-   "`Targets`_", "-", "-", "-", "`Isberg et al. TiPS 2015`_", "Displays the Targets |br| for the single or set of drugs selected."
-   "`Genetic variants`_", "-", "-", "-", "`Hauser et al. Cell 2018`_", "Section showing the variants, |br| along with their effect prediction |br| and association statistics across almost 3000 phenotypes."
+   "`Drugs`_", "-", "-", "|Drug Video|", "Provides drug page for a single or set of drugs."
+   "`Targets`_", "-", "-", "-", "Displays the Targets |br| for the single or set of drugs selected."
+   "`Genetic variants`_", "-", "-", "-", "Section showing the variants, |br| along with their effect prediction |br| and association statistics across almost 3000 phenotypes."
 
 
 The documentation is organised into four sections:
