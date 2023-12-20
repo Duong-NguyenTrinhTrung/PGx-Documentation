@@ -15,8 +15,6 @@ Below, a table overview of all the different pages and functionalities in PGx gr
 .. _source code: https://github.com/Duong-NguyenTrinhTrung/pgx-db
 .. _source data: https://github.com/Duong-NguyenTrinhTrung/PharmacogenomicsData
 .. _GitHub: https://github.com
-.. _Isberg et al. NAR 2014: 
-.. _Isberg et al. NAR 2016: 
 
 
 .. |Drug Video| image:: https://github.com/Duong-NguyenTrinhTrung/pgx-db/blob/main/static/home/logo/drug/drug2.png
@@ -32,12 +30,12 @@ Below, a table overview of all the different pages and functionalities in PGx gr
      <br>
 
 .. csv-table:: **SEQUENCES**
-   :header:  "Page name", "Video", "Slides", "Demo", "Short description"
-   :widths: 25 25 25 25 25 25
+   :header:  "Page name", "Video", "Demo", "Short description"
+   :widths: 25 25 25 25
 
-   "`Drugs`_", "-", "-", "|Drug Video|", "Provides drug page for a single or set of drugs."
-   "`Targets`_", "-", "-", "-", "Displays the Targets |br| for the single or set of drugs selected."
-   "`Genetic variants`_", "-", "-", "-", "Section showing the variants, |br| along with their effect prediction |br| and association statistics across almost 3000 phenotypes."
+   "`Drugs`_", "-", "|Drug Video|", "Provides drug page for a single or set of drugs."
+   "`Targets`_", "-", "-", "Displays the Targets |br| for the single or set of drugs selected."
+   "`Genetic variants`_", "-", "-", "Section showing the variants, |br| along with their effect prediction |br| and association statistics across almost 3000 phenotypes."
 
 
 The documentation is organised into four sections:
