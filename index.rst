@@ -31,13 +31,13 @@ Below, a table overview of all the different pages and functionalities in PGx gr
      <br>
 
 .. csv-table:: **PAGES**
-   :header:  "Page name", "Video", "Demo", "Short description"
-   :widths: 25 25 25 25
+   :header:  "Page name", "Demo video", "Short description"
+   :widths: 25 25 25
 
-   "`Drugs`_", "-", "|Drug Video|", "Provides drug page for a single or set of drugs along with |br| the ATC code system"
-   "`Targets`_", "-", "-", "Displays the Targets |br| for the single or set of drugs selected."
-   "`Genetic variants`_", "-", "-", "Section showing the variants, |br| along with their effect prediction, |br| burden association statistics and drug response information"
-   "`APIs`_", "-", "-", "Section showing the API endpoints, |br| along with sample Python scripts, |br| to help users download PGx data efficiently"
+   "`Drugs`_", "|Drug Video|", "Provides drug page for a single or set of drugs along with |br| the ATC code system"
+   "`Targets`_", "-", "Displays the Targets |br| for the single or set of drugs selected."
+   "`Genetic variants`_", "-", "Section showing the variants, |br| along with their effect prediction, |br| burden association statistics and drug response information"
+   "`APIs`_", "-", "Section showing the API endpoints, |br| along with sample Python scripts, |br| to help users download PGx data efficiently"
 
 
 The documentation is organised into four sections:
