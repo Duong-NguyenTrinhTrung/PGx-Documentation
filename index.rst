@@ -91,5 +91,4 @@ Below, a table overview of all the different pages and functionalities in PGx gr
 
     about
     contact
-    citing_PGx
-    external_PGx_sites
+    
