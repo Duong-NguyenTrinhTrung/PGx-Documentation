@@ -84,7 +84,7 @@ The documentation is organised into four sections:
 
 .. toctree::
     :maxdepth: 2
-    :caption: API
+    :caption: APIs
 
     web_services
     
