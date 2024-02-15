@@ -34,9 +34,16 @@ Below, a table overview of all the different pages and functionalities in PGx gr
    :header:  "Page name", "Demo video", "Short description"
    :widths: 25 25 25
 
-   "`Drugs`_", "|Drug Video|", "Provides drug page for a single or set of drugs along with |br| the ATC code system"
-   "`Targets`_", "-", "Displays the Targets |br| for the single or set of drugs selected."
-   "`Genetic variants`_", "-", "Section showing the variants, |br| along with their effect prediction, |br| burden association statistics and drug response information"
+   "`ATC code browser`_", "-", "The page allows browsing through the ATC code system, |br|seeing drug profiles as well as a tripartite network visualization for drugs, 
+   |br|targets 
+   and disease nodes indexed at an ATC code "
+   "`Drug browser`_", "|Drug Video|", "The page provides search tool and displays basic information about a single or set of drugs with links to the |br|network visualization 
+   and drug statistics information"
+   "`Disease browser`_", "-", "This page offers a search tool and presents essential details about diseases, connections to |br|drug-disease association networks, and 
+   statistical data related to diseases."
+   "`Target browser`_", "-", "This page provides access to a search feature, view key details on diseases, explore networks that map drug-disease associations, and examine 
+   statistics concerning diseases"
+   "`Variant browser`_", "-", "Section showing the variants, |br| along with their effect prediction, |br| burden association statistics"
    "`APIs`_", "-", "Section showing the API endpoints, |br| along with sample Python scripts, |br| to help users download PGx data efficiently"
 
 
