@@ -21,12 +21,12 @@ Below, a table overview of all the different pages and functionalities in PGx gr
                               :target: 
 
 
-.. _ATC code browser:
-.. _Drug browser: 
+.. _ATC code browser: https://pgx-documentation.readthedocs.io/en/latest/drugs.html
+.. _Drug browser: https://pgx-documentation.readthedocs.io/en/latest/drugs.html
 .. _Disease browser:
-.. _Target browser: 
-.. _Variant browser: https://docs.gpcrdb.org/variants.html#genetic-variants
-.. _APIs:
+.. _Target browser: https://pgx-documentation.readthedocs.io/en/latest/targets.html
+.. _Variant browser: https://pgx-documentation.readthedocs.io/en/latest/variants.html
+.. _APIs: https://pgx-documentation.readthedocs.io/en/latest/web_services.html
 
 .. |br| raw:: html
 
