@@ -69,6 +69,7 @@ Below, a table overview of all the different pages and functionalities in PGx gr
 
     browsing_atc_code_page
     browsing_drug_page
+    browsing_disease_page
     browsing_target_page
     browsing_variant_page
     
