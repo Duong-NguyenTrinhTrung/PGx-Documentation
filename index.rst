@@ -34,7 +34,7 @@ Below, a table overview of all the different pages and functionalities in PGx gr
 
 .. csv-table:: **PAGES**
    :header:  "Page name", "Demo video", "Short description"
-   :widths: 35 25 25
+   :widths: 45 25 25
 
    "`ATC code browser`_", "-", "The page allows browsing through the ATC code system, seeing drug profiles as well as a tripartite network visualization for drugs, 
    targets and disease nodes indexed at an ATC code "
