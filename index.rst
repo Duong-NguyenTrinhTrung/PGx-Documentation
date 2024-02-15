@@ -41,10 +41,10 @@ Below, a table overview of all the different pages and functionalities in PGx gr
    and drug statistics information"
    "`Disease browser`_", "-", "This page offers a search tool and presents essential details about diseases, connections to |br|drug-disease association networks, and 
    statistical data related to diseases."
-   "`Target browser`_", "-", "This page provides access to a search feature, view key details on diseases, explore networks that map drug-disease associations, and examine 
+   "`Target browser`_", "-", "This page provides access to a search feature, view key details on diseases, explore networks |br|that map drug-disease associations, and examine 
    statistics concerning diseases"
-   "`Variant browser`_", "-", "Section showing the variants, |br| along with their effect prediction, |br| burden association statistics"
-   "`APIs`_", "-", "Section showing the API endpoints, |br| along with sample Python scripts, |br| to help users download PGx data efficiently"
+   "`Variant browser`_", "-", "Section showing the variants, along with their effect prediction, |br| burden association statistics"
+   "`APIs`_", "-", "Section showing the API endpoints, along with sample Python scripts, |br| to help users download PGx data efficiently"
 
 
 The documentation is organised into four sections:
