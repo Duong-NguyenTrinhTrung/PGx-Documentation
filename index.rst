@@ -48,12 +48,6 @@ Below, a table overview of all the different pages and functionalities in PGx gr
    "`APIs`_", "-", "Section showing the API endpoints, along with sample Python |br| scripts, to help users download PGx data efficiently"
 
 
-The documentation is organised into four sections:
-
-* :ref:`user-docs`
-* :ref:`video-tut-docs`
-* :ref:`dev-docs`
-* :ref:`about-docs`
 
 .. _user-docs:
 
