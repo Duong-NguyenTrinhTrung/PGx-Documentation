@@ -3,7 +3,7 @@ Variants
 
 The variant page is designed to showcase all variants occurring on collected targets/genes, along with their effect prediction scores and association summary statistics. On this page, you will find:
 
-A search box at the top that enables the search for a variant by its identifier (in the format: Chromosome_Coordinate_Reference/Alternative allele). Our autocomplete feature suggests possible matches as you type.
+A search box at the top that enables the search for a variant by its identifier (in the format: **Chromosome_Coordinate_Reference/Alternative allele**). Our autocomplete feature suggests possible matches as you type.
 
 Each row in the results box provides fundamental information about the gene where the variant occurs, along with a link to a specific page for that gene. On this gene detail page, you will find:
 
