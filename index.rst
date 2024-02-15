@@ -77,17 +77,17 @@ The documentation is organised into four sections:
     browsing_drug_page
     browsing_target_page
     browsing_variant_page
-    browsing_API_page
+    
     
 
 .. _dev-docs:
 
 .. toctree::
     :maxdepth: 2
-    :caption: Developer documentation
+    :caption: API
 
     web_services
-    contributing
+    
     
 .. _about-docs:
 
