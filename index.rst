@@ -21,9 +21,11 @@ Below, a table overview of all the different pages and functionalities in PGx gr
                               :target: 
 
 
-.. _Drugs: 
-.. _Targets: 
-.. _Genetic variants: https://docs.gpcrdb.org/variants.html#genetic-variants
+.. _ATC code browser:
+.. _Drug browser: 
+.. _Disease browser:
+.. _Target browser: 
+.. _Variant browser: https://docs.gpcrdb.org/variants.html#genetic-variants
 .. _APIs: 
 
 .. |br| raw:: html
