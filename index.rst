@@ -21,7 +21,7 @@ Below, a table overview of all the different pages and functionalities in PGx gr
                               :target: 
 
 
-.. _ATC code browser:
+.. ATC code browser:
 .. _Drug browser: 
 .. _Disease browser:
 .. _Target browser: 
