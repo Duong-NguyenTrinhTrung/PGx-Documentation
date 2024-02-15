@@ -37,7 +37,7 @@ Below, a table overview of all the different pages and functionalities in PGx gr
    :widths: 45 25 25
 
    "`ATC code browser`_", "-", "The page allows browsing through the ATC code system, seeing drug profiles |br| as well as information indexed at an ATC code in 4 
-   sections: |br|   * a tripartite network visualization for drugs, targets and disease nodes |br|   * statistics of drugs, targets, disease within the network |br|   * ATC-level network comparison |br|   * pharmacogenomics information"
+   sections: |br| * a tripartite network visualization for drugs, targets and disease nodes |br| * statistics of drugs, targets, disease within the network |br| * ATC-level network comparison |br| * pharmacogenomics information"
    "`Drug browser`_", "|Drug Video|", "The page provides search tool and displays basic information about |br| a single or set of drugs with links to the network 
    visualization and |br| drug statistics information"
    "`Disease browser`_", "-", "This page offers a search tool and presents essential details about diseases, |br| connections to drug-disease association networks, and 
