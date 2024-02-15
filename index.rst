@@ -36,15 +36,15 @@ Below, a table overview of all the different pages and functionalities in PGx gr
    :header:  "Page name", "Demo video", "Short description"
    :widths: 45 25 25
 
-   "`ATC code browser`_", "-", "The page allows browsing through the ATC code system, seeing drug profiles as well as information indexed at an ATC code in 4 sections: a    
-   tripartite network visualization for drugs, targets and disease nodes; statistics of drugs, targets, disease within the network; ATC-level network comparison; 
+   "`ATC code browser`_", "-", "The page allows browsing through the ATC code system, seeing drug profiles as well as|br| information indexed at an ATC code in 4 sections: a  
+   tripartite network visualization for drugs, targets and disease nodes; |br|statistics of drugs, targets, disease within the network; ATC-level network comparison;|br| 
    pharmacogenomics information"
-   "`Drug browser`_", "|Drug Video|", "The page provides search tool and displays basic information about a single or set of drugs with links to the network visualization 
+   "`Drug browser`_", "|Drug Video|", "The page provides search tool and displays basic information about a single or set of drugs with links to the |br|network visualization 
    and drug statistics information"
-   "`Disease browser`_", "-", "This page offers a search tool and presents essential details about diseases, connections to drug-disease association networks, and 
+   "`Disease browser`_", "-", "This page offers a search tool and presents essential details about diseases, connections to drug-disease |br|association networks, and 
    statistical data related to diseases."
-   "`Target browser`_", "-", "This page provides access to a search feature, view key details on diseases, explore networks that map drug-disease associations, and examine 
-   statistics concerning diseases"
+   "`Target browser`_", "-", "This page provides access to a search feature, view key details on diseases, explore networks that map |br|drug-disease associations, and 
+   examine statistics concerning diseases"
    "`Variant browser`_", "-", "Section showing the variants, along with their effect prediction, burden association statistics"
    "`APIs`_", "-", "Section showing the API endpoints, along with sample Python scripts, to help users download PGx data efficiently"
 
