@@ -55,7 +55,7 @@ Below, a table overview of all the different pages and functionalities in PGx gr
     :maxdepth: 2
     :caption: User documentation
 
-    atc_codes
+    atc_code
     drugs
     diseases
     targets
