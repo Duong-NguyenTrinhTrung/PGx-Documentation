@@ -1,8 +1,13 @@
 Contact
 =======
 
+To contact the authors of PGx, please use the e-mail address: `trung.trinh@sund.ku.dk`_.
 
-Thank you for using PGx. We welcome your suggestions or feedback on existing resources. Please send them to the lead developer of PGx, Nguyen Trinh Trung Duong, 
+.. _trung.trinh@sund.ku.dk: mailto:trung.trinh@sund.ku.dk
 
-`_trung.trinh@sund.ku.dk` or report bugs on our GitHub repository at https://github.com/Duong-NguyenTrinhTrung/pgx-db/issues.
- 
+
+To report bugs, please use our github: `https://github.com/Duong-NguyenTrinhTrung/pgx-db/issues`_.
+
+.. _https://github.com/Duong-NguyenTrinhTrung/pgx-db/issues
+
+
