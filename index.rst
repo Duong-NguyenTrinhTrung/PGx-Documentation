@@ -62,7 +62,9 @@ The documentation is organised into four sections:
     :maxdepth: 2
     :caption: User documentation
 
+    atc codes
     drugs
+    diseases
     targets
     variants
     
