@@ -39,14 +39,14 @@ Below, a table overview of all the different pages and functionalities in PGx gr
    "`ATC code browser`_", "-", "The page allows browsing through the ATC code system, seeing |br| drug profiles as well as information indexed at an ATC code |br| in 4 
    sections: |br| a tripartite network visualization for drugs, targets and disease nodes; |br| statistics of drugs, targets, disease within the network; |br| ATC-level 
    network comparison; |br| pharmacogenomics information"
-   "`Drug browser`_", "|Drug Video|", "The page provides search tool and displays basic information about a single or set of drugs with links to the |br| network 
+   "`Drug browser`_", "|Drug Video|", "The page provides search tool and displays basic information about |br| a single or set of drugs with links to the |br| network 
    visualization and drug statistics information"
-   "`Disease browser`_", "-", "This page offers a search tool and presents essential details about diseases, connections to drug-disease |br| association networks, and 
+   "`Disease browser`_", "-", "This page offers a search tool and presents essential details |br| about diseases, connections to drug-disease association networks, |br| and 
    statistical data related to diseases."
-   "`Target browser`_", "-", "This page provides access to a search feature, view key details on diseases, explore networks that map |br| drug-disease associations, and 
+   "`Target browser`_", "-", "This page provides access to a search feature, |br| view key details on diseases, explore networks that map |br| drug-disease associations, and 
    examine statistics concerning diseases"
-   "`Variant browser`_", "-", "Section showing the variants, along with their effect prediction, burden association statistics"
-   "`APIs`_", "-", "Section showing the API endpoints, along with sample Python scripts, to help users download PGx data efficiently"
+   "`Variant browser`_", "-", "Section showing the variants, along with their effect prediction, burden |br| association statistics"
+   "`APIs`_", "-", "Section showing the API endpoints, along with sample Python scripts, |br|  to help users download PGx data efficiently"
 
 
 The documentation is organised into four sections:
