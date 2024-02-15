@@ -3,7 +3,7 @@ Browsing ATC code page
 
 The ‘ATC code browser’  page at https://pgx-db.org/atc-lookup provides a streamlined search of ATC codes. The search process is tiered, beginning with the anatomical group and narrowing down through therapeutic, pharmacological, and chemical groups to a specific 7-character chemical substance code. Clicking any ATC code reveals in the right panel which shows the following information:
 
-1. An overview table lists drugs linked to the selected ATC code and its related subcodes, highlighting interacted protein targetss color-coded by their mode of action, as well as associated diseases for each drug.
+1. An overview table lists drugs linked to the selected ATC code and its related subcodes, highlighting interacted protein targetss color-coded by their mode of action, as well as associated diseases for each drug. 
 
 2. Beneath the overview table is a panel with four tabs:
   
