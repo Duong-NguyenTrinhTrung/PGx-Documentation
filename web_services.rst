@@ -1,6 +1,3 @@
-APIs
-============
-
 Most data in PGx is available programmatically via a REST API.
 
 List of API endpoints
