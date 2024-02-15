@@ -26,7 +26,7 @@ Below, a table overview of all the different pages and functionalities in PGx gr
 .. _Disease browser:
 .. _Target browser: 
 .. _Variant browser: https://docs.gpcrdb.org/variants.html#genetic-variants
-.. _APIs: 
+.. _APIs:
 
 .. |br| raw:: html
 
