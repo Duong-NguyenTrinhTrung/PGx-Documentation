@@ -73,6 +73,7 @@ The documentation is organised into four sections:
 .. toctree::
     :maxdepth: 2
     :caption: Video tutorials
+
     browsing_atc_code_page
     browsing_drug_page
     browsing_target_page
