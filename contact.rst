@@ -8,6 +8,4 @@ To contact the authors of PGx, please use the e-mail address: `trung.trinh@sund.
 
 To report bugs, please use our github: `https://github.com/Duong-NguyenTrinhTrung/pgx-db/issues`_.
 
-.. _https://github.com/Duong-NguyenTrinhTrung/pgx-db/issues
-
 
