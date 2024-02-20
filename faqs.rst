@@ -27,3 +27,13 @@ BE specifies it is an anilide,
 This systematic coding helps in ensuring uniform classification and usage of drugs across different countries and regions, facilitating international communication about drug use and research.
 
 
+*2. Where can I get pharmacogenomics information from PGxDB?*
+=============================================================
+
+In PGxDB, we provide pharmacogenomics information from an ATC code view, drug view or target view
+
+**From an ATC code view:** Use the "ATC code browser" to browse to any ATC code of desire, then click on the button with tooltip "Click to show network" to open a right panel which shows all the drugs, drug-target interactions, and drug-disease association for all drugs associated with that ATC code. Users then would see in the tab "Network pharmacogenomics" beneath all the pharmacogenomics information available for those drugs and targets.
+
+**From a drug view:** Use the "Drug browser" to find any drug of desire, then click on the corresponding link in the "ATC code" column to re-direct to a panel which shows all the drug information, drug-target interactions, and drug-disease association for that drug. Users then would see in the tab "Network pharmacogenomics" beneath all the pharmacogenomics information available for that drug and its targets.
+
+**From a target view:** Use the "Target browser" to find any target of desire, then click specific drug in the "Interacting drugs" column to re-direct to a panel which shows all the drug information, drug-target interactions, and drug-disease association for that drug. Users then would see in the tab "Network pharmacogenomics" beneath all the pharmacogenomics information available for that drug and its targets.
