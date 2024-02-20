@@ -1,7 +1,7 @@
 FAQs
 =====================
 
-**1. What are ATC codes?**
+*1. What are ATC codes?*
 
 ATC codes, or Anatomical Therapeutic Chemical Classification System codes, are a system used for the classification of drugs and medicines. The system is organized into different groups according to the organ or system on which they act and their therapeutic, pharmacological, and chemical properties. It is used internationally for the classification of medication and serves several purposes, such as facilitating health care professionals' search for specific drugs, aiding in the organization and analysis of drug utilization and research data, and supporting health care policy and management decisions.
 
