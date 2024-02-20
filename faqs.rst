@@ -48,3 +48,8 @@ Then the basic information of the gene where the variant occur are shown includi
    - Genebased burden association analysis result
 
 User could apply filters, sorting when browsing these information
+
+*4. What can I search from PGxDB?*
+=============================================================
+
+In PGxDB, users can search for any **drug**, **disease**, **target (gene)** or **variant** 
