@@ -41,8 +41,8 @@ In PGxDB, we provide pharmacogenomics information from *an ATC code view*, *drug
 
 In PGxDB, users can search for any variant from the **"Variant browser"** page using the innput format: *Chromosome_Coordinate_Reference/Alternative allele*, example: *20_50581449_C/G*
 
-Then the basic information of the gene where the variant occur are shown including "Gene ID",	"Gene symbol",	and "Primary transcript". The "Go to detail page" link on the right will re-direct to the specific page for that gene where all following information for each variant of that gene are list:
+Then the basic information of the gene where the variant occur are shown including *Gene ID*, *Gene symbol*,	and *Primary transcript*. The *Go to detail page* link on the right will re-direct to the specific page for that gene where all following information for each variant of that gene are list:
    - Basic variant annotation (sequence position, consequence, wildtypeAA, mutantAA, codon)
    - 40 the variant effect prediction scores and its MEAN value
    - Genebased burden association analysis result
-User could apply filter, sort when browsing these information
+User could apply filters, sorting when browsing these information
