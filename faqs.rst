@@ -53,3 +53,8 @@ User could apply filters, sorting when browsing these information
 =============================================================
 
 In PGxDB, users can search for any **drug**, **disease**, **target (gene)** or **variant** 
+
+*5. What else can I get from PGxDB?*
+=============================================================
+
+In PGxDB, the data underlying any table or statistics plot can be downloaded. Furthermore, the APIs section provides all Rest API end-points to download any information presented in any page
