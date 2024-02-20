@@ -29,8 +29,20 @@ This systematic coding helps in ensuring uniform classification and usage of dru
 
 In PGxDB, we provide pharmacogenomics information from *an ATC code view*, *drug view* or *target view*
 
-**From an ATC code view:** Use the "ATC code browser" to browse to any ATC code of desire, then click on the button with tooltip "Click to show network" to open a right panel which shows all the drugs, drug-target interactions, and drug-disease association for all drugs associated with that ATC code. Users then would see in the tab "Network pharmacogenomics" beneath all the pharmacogenomics information available for those drugs and targets.
+**From an ATC code view:** Use the "ATC code browser" page to browse to any ATC code of desire, then click on the button with tooltip "Click to show network" to open a right panel which shows all the drugs, drug-target interactions, and drug-disease association for all drugs associated with that ATC code. Users then would see in the tab "Network pharmacogenomics" beneath all the pharmacogenomics information available for those drugs and targets.
 
-**From a drug view:** Use the "Drug browser" to find any drug of desire, then click on the corresponding link in the "ATC code" column to re-direct to a panel which shows all the drug information, drug-target interactions, and drug-disease association for that drug. Users then would see in the tab "Network pharmacogenomics" beneath all the pharmacogenomics information available for that drug and its targets.
+**From a drug view:** Use the "Drug browser" page to find any drug of desire, then click on the corresponding link in the "ATC code" column to re-direct to a panel which shows all the drug information, drug-target interactions, and drug-disease association for that drug. Users then would see in the tab "Network pharmacogenomics" beneath all the pharmacogenomics information available for that drug and its targets.
 
-**From a target view:** Use the "Target browser" to find any target of desire, then click specific drug in the "Interacting drugs" column to re-direct to a panel which shows all the drug information, drug-target interactions, and drug-disease association for that drug. Users then would see in the tab "Network pharmacogenomics" beneath all the pharmacogenomics information available for that drug and its targets.
+**From a target view:** Use the "Target browser" page to find any target of desire, then click specific drug in the "Interacting drugs" column to re-direct to a panel which shows all the drug information, drug-target interactions, and drug-disease association for that drug. Users then would see in the tab "Network pharmacogenomics" beneath all the pharmacogenomics information available for that drug and its targets.
+
+
+*3. On a variant level, which information I can get from PGxDB?*
+=============================================================
+
+In PGxDB, users can search for any variant from the **"Variant browser"** page using the innput format: *Chromosome_Coordinate_Reference/Alternative allele*, example: *20_50581449_C/G*
+
+Then the basic information of the gene where the variant occur are shown including "Gene ID",	"Gene symbol",	and "Primary transcript". The "Go to detail page" link on the right will re-direct to the specific page for that gene where all following information for each variant of that gene are list:
+   - Basic variant annotation (sequence position, consequence, wildtypeAA, mutantAA, codon)
+   - 40 the variant effect prediction scores and its MEAN value
+   - Genebased burden association analysis result
+User could apply filter, sort when browsing these information
