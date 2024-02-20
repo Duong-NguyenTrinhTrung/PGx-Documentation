@@ -82,6 +82,14 @@ Below, a table overview of all the main pages and functionalities in PGx grouped
     :caption: APIs
 
     web_services
+
+.. _faqs-docs:
+
+.. toctree::
+    :maxdepth: 2
+    :caption: FAQs
+
+    faqs
     
     
 .. _about-docs:
