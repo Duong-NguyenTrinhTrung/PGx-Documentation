@@ -30,7 +30,7 @@ This systematic coding helps in ensuring uniform classification and usage of dru
 *2. Where can I get pharmacogenomics information from PGxDB?*
 =============================================================
 
-In PGxDB, we provide pharmacogenomics information from an ATC code view, drug view or target view
+In PGxDB, we provide pharmacogenomics information from *an ATC code view*, *drug view* or *target view*
 
 **From an ATC code view:** Use the "ATC code browser" to browse to any ATC code of desire, then click on the button with tooltip "Click to show network" to open a right panel which shows all the drugs, drug-target interactions, and drug-disease association for all drugs associated with that ATC code. Users then would see in the tab "Network pharmacogenomics" beneath all the pharmacogenomics information available for those drugs and targets.
 
