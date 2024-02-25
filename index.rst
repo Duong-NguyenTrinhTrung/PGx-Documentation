@@ -61,18 +61,6 @@ Below, a table overview of all the main pages and functionalities in PGx grouped
     targets
     variants
     
-.. _video-tut-docs:
-
-.. toctree::
-    :maxdepth: 2
-    :caption: Video tutorials
-
-    browsing_atc_code_page
-    browsing_drug_page
-    browsing_disease_page
-    browsing_target_page
-    browsing_variant_page
-    
     
 
 .. _dev-docs:
