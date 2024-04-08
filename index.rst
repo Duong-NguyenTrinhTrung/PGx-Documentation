@@ -21,7 +21,7 @@ Below, a table overview of all the main pages and functionalities in PGx grouped
                               :target: 
 
 
-.. _ATC code browser: https://pgx-documentation.readthedocs.io/en/latest/atcs.html
+.. _ATC code browser: https://pgx-documentation.readthedocs.io/en/latest/atc_code.html
 .. _Drug browser: https://pgx-documentation.readthedocs.io/en/latest/drugs.html
 .. _Disease browser: https://pgx-documentation.readthedocs.io/en/latest/diseases.html
 .. _Target browser: https://pgx-documentation.readthedocs.io/en/latest/targets.html
