@@ -33,19 +33,19 @@ Below, a table overview of all the main pages and functionalities in PGx grouped
      <br>
 
 .. csv-table:: **PAGES**
-   :header:  "Page name", "Demo video", "Short description"
-   :widths: 45 25 25
+   :header:  "Page name", "Short description"
+   :widths: 45 25 
 
-   "`ATC code browser`_", "-", "The page allows browsing through the ATC code system, seeing drug profiles |br| as well as information indexed at an ATC code in 4 
+   "`ATC code browser`_",  "The page allows browsing through the ATC code system, seeing drug profiles |br| as well as information indexed at an ATC code in 4 
    sections: |br| ** a tripartite network visualization for drugs, targets and disease nodes |br| ** statistics of drugs, targets, disease within the network |br| ** ATC-level network comparison |br| ** pharmacogenomics information"
-   "`Drug browser`_", "|Drug Video|", "The page provides search tool and displays basic information about |br| a single or set of drugs with links to the network 
+   "`Drug browser`_", "The page provides search tool and displays basic information about |br| a single or set of drugs with links to the network 
    visualization and |br| drug statistics information"
-   "`Disease browser`_", "-", "This page offers a search tool and presents essential details about diseases, |br| connections to drug-disease association networks, and 
+   "`Disease browser`_", "This page offers a search tool and presents essential details about diseases, |br| connections to drug-disease association networks, and 
    statistical data related to diseases."
-   "`Target browser`_", "-", "This page provides access to a search feature, view key details on diseases, |br| explore networks that map drug-disease associations, and 
+   "`Target browser`_",  "This page provides access to a search feature, view key details on diseases, |br| explore networks that map drug-disease associations, and 
    examine statistics concerning diseases"
-   "`Variant browser`_", "-", "Section showing the variants, along with their effect prediction, burden |br| association statistics"
-   "`APIs`_", "-", "Section showing the API endpoints, along with sample Python |br| scripts, to help users download PGx data efficiently"
+   "`Variant browser`_", "Section showing the variants, along with their effect prediction, burden |br| association statistics"
+   "`APIs`_", "Section showing the API endpoints, along with sample Python |br| scripts, to help users download PGx data efficiently"
 
 
 
