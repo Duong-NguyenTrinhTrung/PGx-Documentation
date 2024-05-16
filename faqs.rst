@@ -59,7 +59,15 @@ In PGxDB, users can search for any **drug**, **disease**, **target (gene)** or *
 
 The network visualization allows a grasp of the drug-target interactions and drug-disease associations.
 
-*6. What else can I get from PGxDB?*
+*6. Where can I get adverse drug reaction?*
+=============================================================
+The adverse drug reaction (ADR) information are drug-based. User can get ADR data when search for any drug as its properties.
+
+*7. What is the quickest way to use PGxDB?*
+=============================================================
+Use the search box on the navbar. User can input information, mainly identifier or name of a drug, disease, protein, gene, variant entity. An autocomplete function will suggest the approriate query as users type.
+
+*8. What else can I get from PGxDB?*
 =============================================================
 
 In PGxDB, the data underlying any table or statistics plot can be downloaded. Furthermore, the APIs section provides all Rest API end-points to download any information presented in any page
