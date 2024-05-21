@@ -22,10 +22,10 @@ Below, a table overview of all the main pages and functionalities in PGx grouped
 
 
 .. _ATC code browser: https://pgx-documentation.readthedocs.io/en/latest/atc_code.html
-.. _Drug browser: https://pgx-documentation.readthedocs.io/en/latest/drugs.html
-.. _Disease browser: https://pgx-documentation.readthedocs.io/en/latest/diseases.html
-.. _Target browser: https://pgx-documentation.readthedocs.io/en/latest/targets.html
-.. _Variant browser: https://pgx-documentation.readthedocs.io/en/latest/variants.html
+.. _Drug search: https://pgx-documentation.readthedocs.io/en/latest/drugs.html
+.. _Disease search: https://pgx-documentation.readthedocs.io/en/latest/diseases.html
+.. _Target search: https://pgx-documentation.readthedocs.io/en/latest/targets.html
+.. _Variant search: https://pgx-documentation.readthedocs.io/en/latest/variants.html
 .. _APIs: https://pgx-documentation.readthedocs.io/en/latest/web_services.html
 
 .. |br| raw:: html
@@ -36,7 +36,7 @@ Below, a table overview of all the main pages and functionalities in PGx grouped
    :header:  "Page name", "Short description"
    :widths: 45 25 
 
-   "`ATC tree browser`_",  "The page allows browsing through the ATC code system, seeing drug profiles |br| as well as information indexed at an ATC code in 4 
+   "`ATC code browser`_",  "The page allows browsing through the ATC code system, seeing drug profiles |br| as well as information indexed at an ATC code in 4 
    sections: |br| ** a tripartite network visualization for drugs, targets and disease nodes |br| ** statistics of drugs, targets, disease within the network |br| ** ATC-level network comparison |br| ** pharmacogenomics information"
    "`Drug search`_", "The page provides search tool and displays basic information about |br| a single or set of drugs with links to the network 
    visualization and |br| drug statistics information"
