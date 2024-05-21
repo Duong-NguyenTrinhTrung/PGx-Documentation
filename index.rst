@@ -30,7 +30,7 @@ Below, a table overview of all the main pages and functionalities in PGx grouped
 
 .. |br| raw:: html
 
-     <br>
+   <br>
 
 .. csv-table:: **PAGES**
    :header:  "Page name", "Short description"
