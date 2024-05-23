@@ -20,7 +20,7 @@ Below, a table overview of all the main pages and functionalities in PGx grouped
 .. |Drug Video| image:: https://github.com/Duong-NguyenTrinhTrung/pgx-db/blob/main/static/home/logo/drug/drug2.png
                               :target: 
 
-
+.. _Graphical overview: https://pgx-documentation.readthedocs.io/en/latest/graphical_overview.html
 .. _ATC code browser: https://pgx-documentation.readthedocs.io/en/latest/atc_code.html
 .. _Drug search: https://pgx-documentation.readthedocs.io/en/latest/drugs.html
 .. _Disease search: https://pgx-documentation.readthedocs.io/en/latest/diseases.html
@@ -54,6 +54,7 @@ Below, a table overview of all the main pages and functionalities in PGx grouped
     :maxdepth: 2
     :caption: User documentation
 
+    graphical_abstract
     atc_code
     drugs
     diseases
