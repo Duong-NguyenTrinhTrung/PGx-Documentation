@@ -54,7 +54,7 @@ Below, a table overview of all the main pages and functionalities in PGx grouped
     :maxdepth: 2
     :caption: User documentation
 
-    graphical_abstract
+    graphical_overview
     atc_code
     drugs
     diseases
