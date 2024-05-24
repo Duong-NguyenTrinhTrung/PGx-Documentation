@@ -6,3 +6,8 @@ The `graphical overview`_ provides users with a comprehensive, visually summary 
 
 .. _graphical overview: http://pgx-db.org/static/document/graphical_overview.pdf
 
+
+.. image:: images/snapshot.png
+  :width: 400
+  :alt: Snapshot of PGx functionalities
+
