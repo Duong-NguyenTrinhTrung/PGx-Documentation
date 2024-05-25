@@ -8,6 +8,6 @@ The `graphical overview`_ provides users with a comprehensive, visually summary 
 
 
 .. image:: images/snapshot.png
-  :width: 400
+  :width: 700
   :alt: Snapshot of PGx functionalities
 
