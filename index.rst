@@ -10,7 +10,7 @@ The PGxDB contains data, diagrams and web tools to facilitate pharmacogenomics r
 
 The `source code`_ and `source data`_ are freely available on `GitHub`_.
 
-Below, a table overview of all the main pages and functionalities in PGx grouped by sections, along links to specific documentation pages, associated slides and video demonstrations.
+Below, a table overview of all the main pages and functionalities in PGxDB grouped by sections, along links to specific documentation pages, associated slides and video demonstrations.
 
 .. _source code: https://github.com/Duong-NguyenTrinhTrung/pgx-db
 .. _source data: https://github.com/Duong-NguyenTrinhTrung/PharmacogenomicsData
