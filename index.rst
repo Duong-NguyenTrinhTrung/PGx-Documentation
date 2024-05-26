@@ -88,5 +88,6 @@ Below, a table overview of all the main pages and functionalities in PGxDB group
 
     about
     legal_notice
+    citing_pgxdb
     contact
     
