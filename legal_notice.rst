@@ -13,7 +13,7 @@ any data prove defective, you assume the cost of all necessary servicing, repair
 The copyrights for ALL information stored in the PGxDB belongs to the partners in the PGxDB project unless stated
 otherwise. It is free to make unlimited use of the PGxDB data. The use of data or services provided by the PGxDB
 project should be acknowledged the classical way by referring to the articles written by the PGxDB project partners,
-and preferably also by mentioning: “We acknowledge the use of the PGxDB database (https://www.pgx-db.org).”.
+and preferably also by mentioning: “We acknowledge the use of the PGxDB database (https://www.pgx-db.org)”.
 
 Informal
 --------
