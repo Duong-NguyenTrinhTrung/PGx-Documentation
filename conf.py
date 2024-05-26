@@ -8,7 +8,7 @@
 import sphinx_rtd_theme
 
 
-project = 'PGx'
+project = 'PGxDB'
 copyright = '2023, PGx'
 author = 'Duong Nguyen Trinh Trung, Ziaurrehman Tanoli, Jimmy Caroli, Albert J. Kooistra, Alexander S. Hauser, and David E. Gloriam'
 release = '1.0'
