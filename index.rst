@@ -3,10 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to PGx's documentation!
+Welcome to PGxDB's documentation!
 ===================================
 
-The PGx contains data, diagrams and web tools to facilitate pharmacogenomics research.
+The PGxDB contains data, diagrams and web tools to facilitate pharmacogenomics research.
 
 The `source code`_ and `source data`_ are freely available on `GitHub`_.
 
@@ -84,7 +84,7 @@ Below, a table overview of all the main pages and functionalities in PGx grouped
 
 .. toctree::
     :maxdepth: 2
-    :caption: About PGx
+    :caption: About PGxDB
 
     about
     contact
