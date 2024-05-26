@@ -1,4 +1,4 @@
-About PGx
+About PGxDB
 ============
 In the rapidly evolving field of pharmacogenomics, there is increasing demand for efficient and user-friendly tools to access and analyze genetic data in the context of medication use. Researchers and healthcare professionals seek solutions that empower them to explore the intricate relationship between an individual's genetic makeup and their response to various drugs. To meet this need, we have developed an interactive web-based resource, *PGxDB*, offering a dynamic platform for comprehensive pharmacogenomics research  covering diverse data allowing to explore new hypotheses.
 
