@@ -29,6 +29,7 @@ Presented in the first tab, network visualization provides a tripartite network 
 
 .. image:: images/network_visualization_tab.png
   :width: 700
+  :align: center
   :alt: Network visualization
 
 Network Statistics
