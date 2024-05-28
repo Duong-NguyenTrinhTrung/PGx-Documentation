@@ -23,6 +23,14 @@ Network visualization
   
 Presented in the first tab, network visualization provides a tripartite network visualizations for drugs, targets and disease nodes.
 
+.. |br| raw:: html
+
+      <br>
+
+.. image:: images/network_visualization_tab.png
+  :width: 700
+  :alt: Network visualization
+
 Network Statistics
 -------------------
 
