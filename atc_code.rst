@@ -94,3 +94,9 @@ Network drug adverse reaction
 -----------------------------
 
 Network drug adverse reaction tab shows adverse reaction, if available, for drugs within the network. For each drug reaction or side effect, we provide a short side effect definition and the frequency found on the surveyed population. We also use color coding to classify different side effects (e.g., orange for less severe and red for severe side effects). 
+
+.. image:: images/network_adr_tab.png
+  :width: 700
+  :align: center
+  :alt: Network adverse drug reaction
+
