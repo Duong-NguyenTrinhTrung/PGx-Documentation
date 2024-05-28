@@ -29,7 +29,7 @@ Presented in the first tab, network visualization provides a tripartite network 
 
 .. image:: images/network_visualization_tab.png
   :width: 700
-  :align: middle
+  :align: center
   :alt: Network visualization
 
 Network Statistics
@@ -39,7 +39,7 @@ Network Statistics tab provides a summary of the network comprising the drugs, p
 
 .. image:: images/network_statistics_tab.png
   :width: 700
-  :align: middle
+  :align: center
   :alt: Network statistics
 
 Network comparison
@@ -65,7 +65,7 @@ Network comparison tab allows users enter an ATC code whose network will be used
 
 .. image:: images/network_comparison_tab.png
   :width: 700
-  :align: middle
+  :align: center
   :alt: Network comparison
 
 Network Pharmacogenomics
@@ -87,7 +87,7 @@ Additionally, the "Burden Data" subsection displays results from burden tests, w
 
 .. image:: images/network_pgx_tab.png
   :width: 700
-  :align: middle
+  :align: center
   :alt: Network pharmacogenomics
 
 Network drug adverse reaction
