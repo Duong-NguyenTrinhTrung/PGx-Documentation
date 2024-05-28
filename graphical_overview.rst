@@ -8,7 +8,7 @@ Our resource provides a comprehensive overview of diverse data types,  serving a
 .. image:: images/data_collection.png
   :width: 700
   :alt: Data collection workflow
-Data collection workflow
+**Data collection workflow**
 
 
 
@@ -20,5 +20,5 @@ Based on the data collected, we provide different functions to efficiently retri
 .. image:: images/snapshot.png
   :width: 700
   :alt: Snapshot of PGx functionalities
-Snapshot of PGx functionalities: (A) Tree-like browser that allows for finding ATC codes of all level from Anatomical group to Chemical substance group. A click on the button next to each ATC code description open a network detail in the right panel (B) Network visualization of the drug-protein interactions and drug-disease association studies. (C) Network feature comparison for 2 different ATC codes (D) browsable table showing specialized pharmacogenomics data related to drug-target interactions within the network (E) Table displaying adverse drug reaction of drugs within the network (F) Variant browsing tool for a selected gene with variant effect prediction scores from 41 distinct algorithms in color gradient ranging from 0 to 1 (G) Accompanying chart displays violin plots of effect prediction scores for currently selected variants (H) Some examples of API endpoints. 
+**Snapshot of PGx functionalities:** *(A) Tree-like browser that allows for finding ATC codes of all level from Anatomical group to Chemical substance group. A click on the button next to each ATC code description open a network detail in the right panel (B) Network visualization of the drug-protein interactions and drug-disease association studies. (C) Network feature comparison for 2 different ATC codes (D) browsable table showing specialized pharmacogenomics data related to drug-target interactions within the network (E) Table displaying adverse drug reaction of drugs within the network (F) Variant browsing tool for a selected gene with variant effect prediction scores from 41 distinct algorithms in color gradient ranging from 0 to 1 (G) Accompanying chart displays violin plots of effect prediction scores for currently selected variants (H) Some examples of API endpoints.* 
 
