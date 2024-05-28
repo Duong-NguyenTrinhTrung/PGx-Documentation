@@ -23,10 +23,24 @@ Network visualization
   
 Presented in the first tab, network visualization provides a tripartite network visualizations for drugs, targets and disease nodes.
 
+.. |br| raw:: html
+
+      <br>
+
+.. image:: images/network_visualization_tab.png
+  :width: 700
+  :align: center
+  :alt: Network visualization
+
 Network Statistics
 -------------------
 
 Network Statistics tab provides a summary of the network comprising the drugs, protein targets, and diseases mentioned above. It also includes information on drug types, molecule’s maximum clinical developmental statuses, drug modes of action , phases of clinical trials for drug-disease association studies, and  disease class distributionswithin the network.
+
+.. image:: images/network_statistics_tab.png
+  :width: 700
+  :align: center
+  :alt: Network statistics
 
 Network comparison
 -------------------
@@ -49,6 +63,11 @@ Network comparison tab allows users enter an ATC code whose network will be used
       
       o	See common and unique network elements: identifying the common drugs, targets, and diseases shared between the two networks. This highlights unique elements in each network to understand their specific characteristics.  
 
+.. image:: images/network_comparison_tab.png
+  :width: 700
+  :align: center
+  :alt: Network comparison
+
 Network Pharmacogenomics
 ------------------------
 
@@ -66,7 +85,18 @@ Network Pharmacogenomics tab presents specialized pharmacogenomics (PGx) data re
 
 Additionally, the "Burden Data" subsection displays results from burden tests, which assess the aggregate impact of genetic variants on genes (proteins) in relation to the phenotypes (drugs) within the network. This data is further categorized into gene-based and variant-based statistics.
 
+.. image:: images/network_pgx_tab.png
+  :width: 700
+  :align: center
+  :alt: Network pharmacogenomics
+
 Network drug adverse reaction
 -----------------------------
 
 Network drug adverse reaction tab shows adverse reaction, if available, for drugs within the network. For each drug reaction or side effect, we provide a short side effect definition and the frequency found on the surveyed population. We also use color coding to classify different side effects (e.g., orange for less severe and red for severe side effects). 
+
+.. image:: images/network_adr_tab.png
+  :width: 700
+  :align: center
+  :alt: Network adverse drug reaction
+
