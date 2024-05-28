@@ -10,6 +10,8 @@ Our resource provides a comprehensive overview of diverse data types,  serving a
   :alt: Data collection workflow
 **Data collection workflow** |br||br||br||br|
 
+
+
 Based on the data collected, we provide different functions to efficiently retrieve those data which can be grasped quickly in the snapshot below
 
 .. image:: images/snapshot.png
