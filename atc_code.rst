@@ -35,7 +35,7 @@ Presented in the first tab, network visualization provides a tripartite network 
 Network Statistics
 -------------------
 
-Network Statistics tab provides a summary of the network comprising the drugs, protein targets, and diseases mentioned above. It also includes information on drug types, molecule’s maximum clinical developmental statuses, drug modes of action , phases of clinical trials for drug-disease association studies, and  disease class distributionswithin the network.
+Network Statistics tab provides a summary of the network comprising the drugs, protein targets, and diseases mentioned above. It also includes information on drug types, molecule’s maximum clinical developmental statuses, drug modes of action , phases of clinical trials for drug-disease association studies, and  disease class distributions within the network.
 
 .. image:: images/network_statistics_tab.png
   :width: 700
