@@ -44,7 +44,7 @@ Below, a table overview of all the main pages and functionalities in PGxDB group
    "`Target search`_",  "This page provides access to a search feature, view key details on |br| diseases, explore networks that map drug-disease associations, and 
    examine statistics concerning diseases"
    "`Variant search`_", "Section showing the variants, along with their effect prediction, burden |br| association statistics"
-   "`APIs`_", "Section showing the API endpoints, along with sample Python |br| scripts, to help users download PGx data efficiently"
+   "`APIs`_", "Section showing the API endpoints, along with sample Python |br| scripts, to help users download data in PGxDB efficiently"
 
 
 
