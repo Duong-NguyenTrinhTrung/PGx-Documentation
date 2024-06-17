@@ -86,8 +86,7 @@ Below, a table overview of all the main pages and functionalities in PGxDB group
     :maxdepth: 2
     :caption: About PGxDB
 
-    about
+    contact
     legal_notice
     citing_pgxdb
-    contact
     
