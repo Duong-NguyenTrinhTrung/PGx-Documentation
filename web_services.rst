@@ -5,7 +5,7 @@ List of API endpoints
 
 Each endpoint is described in the `API reference`_.
 
-.. _API reference: http://localhost:8000/swagger/
+.. _API reference: https://pgx-db.org/swagger/
 
 API sample scripts
 --------
