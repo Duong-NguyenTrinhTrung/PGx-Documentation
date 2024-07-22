@@ -22,7 +22,7 @@ This is the recommended approach. Requires installation of the `requests library
     import requests
 
     def download_gene_data(gene_ids):
-    base_url = "https://pgx-db.org/restapi/"  
+    base_url = "https://pgx-db.org/rest-api/"  
 
     for gene_id in gene_ids:
         url = f"{base_url}/gene/variant/{gene_id}/"
