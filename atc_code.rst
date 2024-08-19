@@ -6,22 +6,22 @@ ATC classification hierachy browser
 
 The ‘ATC classification hierachy browser’  page at https://pgx-db.org/atc_lookup or https://pgxdb.org/atc_lookup provides a streamlined search of ATC codes in all 5 levels:
 
-1.  Querying by anatomical group
-2.  Querying by therapeutic group
-3.  Querying by pharmacological group
-4.  Querying by chemical group
-5.  Querying by chemical substance
+1.  Querying by anatomical group (1st level)
+2.  Querying by therapeutic group (2nd level)
+3.  Querying by pharmacological group (3rd level)
+4.  Querying by chemical group (4th level)
+5.  Querying by chemical substance (5th level)
 
 Clicking any ATC code reveals in the right panel which shows the following information:
 
-1. An overview table lists drugs linked to the selected ATC code and its related subcodes, highlighting interacted protein targetss color-coded by their mode of action, as well as associated diseases for each drug. 
+1. An overview table lists drugs linked to the selected ATC code and its related subcodes, highlighting interacted protein targetss color-coded by their protein interaction type (e.g. target, enzyme, transporter, carrier), as well as associated indications for each drug. 
 
 2. Beneath the overview table is a panel with five tabs each of which shows a different aspect.
 
 Network visualization
 ----------------------
   
-Presented in the first tab, network visualization provides a tripartite network visualizations for drugs, targets and disease nodes.
+Presented in the first tab, network visualization provides a tripartite network visualizations for drugs, targets and indication nodes.
 
 .. |br| raw:: html
 
@@ -45,9 +45,11 @@ Network Statistics tab provides a summary of the network comprising the drugs, p
 Network comparison
 -------------------
 
-Network comparison tab allows users enter an ATC code whose network will be used for comparitive analysis. We provide 12 comparison options including:
+Network comparison tab allows users enter an ATC code whose network will be used for comparitive analysis. We provide 13 comparison options including:
 
       o	Network size comparison: comparing 2 networks based on number of nodes (drugs, targets and diseases), drug-target interactions, and drug-disease associations. This       module can allow end users to detemine complexities between different networks.
+
+      o	Network Adverse Drug Reactions: comparing 2 networks based on number of side effects, their frequencies of drugs within the network. This allows to see if one adverse drug reaction profile is more diverse and frequent.
 
       o	Degree distribution comparion: comparing 2 networks on distribution of degree of drug-disease association or drug-protein interaction nodes. This helps to understand the connectivity patterns between networks.  
 
