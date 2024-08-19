@@ -1,10 +1,10 @@
-ATC codes
+ATC classification hierachy browser
 ===============
 
-ATC code browser
+ATC classification hierachy browser
 ----------------
 
-The ‘ATC code browser’  page at https://pgx-db.org/atc_lookup provides a streamlined search of ATC codes in all 5 levels:
+The ‘ATC classification hierachy browser’  page at https://pgx-db.org/atc_lookup or https://pgxdb.org/atc_lookup provides a streamlined search of ATC codes in all 5 levels:
 
 1.  Querying by anatomical group
 2.  Querying by therapeutic group

@@ -5,7 +5,7 @@ List of API endpoints
 
 Each endpoint is described in the `API reference`_.
 
-.. _API reference: http://localhost:8000/swagger/
+.. _API reference: https://pgx-db.org/swagger/
 
 API sample scripts
 --------
@@ -22,7 +22,7 @@ This is the recommended approach. Requires installation of the `requests library
     import requests
 
     def download_gene_data(gene_ids):
-    base_url = "https://pgx-db.org/"  
+    base_url = "https://pgx-db.org/rest-api/"  
 
     for gene_id in gene_ids:
         url = f"{base_url}/gene/variant/{gene_id}/"
