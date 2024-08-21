@@ -1,7 +1,7 @@
 Targets
 ======================
 
-The ‘Target browser’ page at https://pgx-db.org/target_lookup or https://pgxdb.org/target_lookupis designed to show all the collected drug targets. In this page you will find:
+The ‘Target browser’ page at https://pgx-db.org/target_lookup or https://pgxdb.org/target_lookup is designed to show all the collected drug targets. In this page you will find:
 
 1.  A search box as the top to enable searching any target by *UniProt accession number*, *protein name*, *gene name* or *Ensembl gene ID*. Our autocomplete feature suggests possible matches as you type.
 
