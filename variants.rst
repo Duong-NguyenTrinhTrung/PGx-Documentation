@@ -1,7 +1,7 @@
 Variants
 ==================================================================================
 
-The ‘Variant browser’ page at https://pgx-db.org/variant_lookup or https://pgxdb.org/varian is designed to showcase all variants occurring on collected proteins/genes, along with their effect prediction scores and association summary statistics. On this page, you will find:
+The ‘Variant browser’ page at https://pgx-db.org/variant_lookup or https://pgxdb.org/varian_lookup is designed to showcase all variants occurring on collected proteins/genes, along with their effect prediction scores and association summary statistics. On this page, you will find:
 
 A search box at the top that enables the search for a variant by its identifier (in the format: **Chromosome_Coordinate_Reference/Alternative allele**). Our autocomplete feature suggests possible matches as you type.
 
