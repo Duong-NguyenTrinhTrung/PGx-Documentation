@@ -11,9 +11,17 @@ kind, either expressed or implied. The entire risk as to the quality and perform
 any data prove defective, you assume the cost of all necessary servicing, repair or correction.
 
 The copyrights for ALL information stored in the PGxDB belongs to the partners in the PGxDB project unless stated
-otherwise. It is free to make unlimited use of the PGxDB data. The use of data or services provided by the PGxDB
+otherwise. The table below shows source databases and corresponding licenses. It is free to make unlimited use of the PGxDB data. The use of data or services provided by the PGxDB
 project should be acknowledged the classical way by referring to the articles written by the PGxDB project partners,
 and preferably also by mentioning: “We acknowledge the use of the PGxDB database (https://www.pgx-db.org)”.
+
+.. |br| raw:: html
+
+      <br>
+
+.. image:: images/database_source_licenses.png
+  :width: 700
+  :alt: Databases sourced and corresponding licenses
 
 Informal
 --------
