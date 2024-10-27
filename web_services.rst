@@ -50,7 +50,7 @@ Python 3 with urllib
     import json
     
     def download_gene_data(gene_ids):
-        base_url = "https://pgx-db.org/"  
+        base_url = "https://pgx-db.org/rest-api/"  
     
         for gene_id in gene_ids:
             url = f"{base_url}/gene/variant/{gene_id}/"
